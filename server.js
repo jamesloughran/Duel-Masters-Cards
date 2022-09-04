@@ -213,6 +213,16 @@ const cards = {
         'power': 2000,
         'mana number': 1,
     },
+    '23':{
+        'name': 'Aqua Hulcus', 
+        'race': 'Liquid People', 
+        'card cost': 3, 
+        'civilization': 'Water', 
+        'card type': 'Creature', 
+        'card text': "■ When you put this creature into the battle zone, you may draw a card.", 
+        'power': 2000,
+        'mana number': 1,
+    },
     
     
     '111':{
