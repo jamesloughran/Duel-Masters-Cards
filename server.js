@@ -15,6 +15,7 @@ const cards = {
         'card text': "■ Double breaker (This creature breaks 2 shields.)",
         'power': 9500,
         'mana number': 1,
+        'card img': "https://static.wikia.nocookie.net/duelmasters/images/a/ab/HanusaRadianceElemental.jpg/revision/latest/scale-to-width-down/300?cb=20130112043220",
     },
     's2': {
         'name': 'Urth, Purifying Elemental',
@@ -1189,8 +1190,8 @@ app.get('/', (request, response) => {
     response.sendFile(__dirname + '/index.html')
 })
 
-app.get('/api/:cardNumber', (request, response) => {
-    const cardNumber = request.params.cardNumber
+app.get('/api/:cards', (request, response) => {
+    const cardNumber = request.params.cards.toLowerCase()
     if (cards[cardNumber]) {
         response.json(cards[cardNumber])
     }
