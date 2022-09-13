@@ -26,6 +26,7 @@ const cards = {
         'card text': "■ Double breaker (This creature breaks 2 shields.) ■ At the end of each of your turns, you may untap this creature.",
         'power': 6000,
         'mana number': 1,
+        'card img': "https://static.wikia.nocookie.net/duelmasters/images/9/9e/UrthPurifyingElemental.jpg/revision/latest/scale-to-width-down/300?cb=20130111184952",
     },
     's3': {
         'name': 'Aqua Sniper',
@@ -36,6 +37,7 @@ const cards = {
         'card text': "■ When you put this creature into the battle zone, choose up to 2 creatures in the battle zone and return them to their owners' hands.",
         'power': 5000,
         'mana number': 1,
+        'card img': "https://static.wikia.nocookie.net/duelmasters/images/4/4d/AquaSniper.jpg/revision/latest/scale-to-width-down/300?cb=20100917040743",
     },
     's4': {
         'name': 'King Depthcon',
@@ -46,6 +48,7 @@ const cards = {
         'card text': "■ Double breaker (This creature breaks 2 shields.) ■ This creature can't be blocked.",
         'power': 6000,
         'mana number': 1,
+        'card img': "https://static.wikia.nocookie.net/duelmasters/images/f/ff/KingDepthcon.jpg/revision/latest/scale-to-width-down/300?cb=20120815080347",
     },
     's5': {
         'name': 'Deathliger, Lion of Chaos',
@@ -56,6 +59,7 @@ const cards = {
         'card text': "■ Double breaker (This creature breaks 2 shields.)",
         'power': 9000,
         'mana number': 1,
+        'card img': "https://static.wikia.nocookie.net/duelmasters/images/0/07/DeathligerLionofChaos.jpg/revision/latest/scale-to-width-down/300?cb=20120422092255",
     },
     's6': {
         'name': 'Zagaan, Knight of Darkness',
@@ -66,6 +70,7 @@ const cards = {
         'card text': "​■ Double breaker (This creature breaks 2 shields.)",
         'power': 7000,
         'mana number': 1,
+        'card img': "https://static.wikia.nocookie.net/duelmasters/images/c/cc/ZagaanKnightofDarkness.jpg/revision/latest/scale-to-width-down/300?cb=20130111185146",
     },
     's7': {
         'name': 'Astrocomet Dragon',
@@ -76,6 +81,7 @@ const cards = {
         'card text': "■ Power attacker +4000 (While attacking, this creature gets +4000 power.) ■ Double breaker (This creature breaks 2 shields.)",
         'power': '6000+',
         'mana number': 1,
+        'card img': "https://static.wikia.nocookie.net/duelmasters/images/c/c1/AstrocometDragon.jpg/revision/latest/scale-to-width-down/300?cb=20130112043346",
     },
     's8': {
         'name': 'Scarlet Skyterror',
@@ -86,6 +92,7 @@ const cards = {
         'card text': '■ When you put this creature into the battle zone, destroy all creatures that have "blocker".',
         'power': 3000,
         'mana number': 1,
+        'card img': "https://static.wikia.nocookie.net/duelmasters/images/2/27/ScarletSkyterror.jpg/revision/latest/scale-to-width-down/300?cb=20130112043203",
     },
     's9': {
         'name': 'Deathblade Beetle',
@@ -96,6 +103,7 @@ const cards = {
         'card text': "■ Power attacker +4000 (While attacking, this creature gets +4000 power.) ■ Double breaker (This creature breaks 2 shields.)",
         'power': '3000+',
         'mana number': 1,
+        'card img': "https://static.wikia.nocookie.net/duelmasters/images/1/11/DeathbladeBeetle.jpg/revision/latest/scale-to-width-down/300?cb=20130113174855",
     },
     's10': {
         'name': 'Roaring Great-Horn',
@@ -106,6 +114,7 @@ const cards = {
         'card text': "■ Power attacker +2000 (While attacking, this creature gets +2000 power.) ​■ Double breaker (This creature breaks 2 shields.)",
         'power': '8000+',
         'mana number': 1,
+        'card img': "https://static.wikia.nocookie.net/duelmasters/images/7/78/RoaringGreatHorn.jpg/revision/latest/scale-to-width-down/300?cb=20130111194758",
     },
 
 
