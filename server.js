@@ -151,7 +151,7 @@ const cards = {
     },
     '4': {
         'name': 'Frei, Vizier of Air',
-        'race': 'Initate',
+        'race': 'Initiate',
         'card cost': 4,
         'civilization': 'Light',
         'card type': 'Creature',
@@ -179,7 +179,7 @@ const cards = {
     },
     '7': {
         'name': 'Iere, Vizier of bullets',
-        'race': 'Initate',
+        'race': 'Initiate',
         'card cost': 3,
         'civilization': 'Light',
         'card type': 'Creature',
