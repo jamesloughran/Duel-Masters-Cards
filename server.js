@@ -327,7 +327,7 @@ const cards = {
         'card type': 'Creature',
         'card text': "■ At the end of each of your turns, you may untap all your creatures in the battle zone.",
         'power': 2000,
-        'mana number': 1,
+        'mana number':1,
     },
 
     // water civilization
